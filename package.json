@@ -1,0 +1,16 @@
+{
+  "name": "socket-i.o",
+  "version": "1.0.0",
+  "description": "simple chatapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sudip",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "nodemon": "^2.0.4",
+    "socket.io": "*"
+  }
+}
